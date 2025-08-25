@@ -1,15 +1,12 @@
 # BitBot — Slack Deep Work Blocker  
 
 <p align="center">
-_A BitBash product for distraction-free teams_
+A BitBash product for distraction-free teams
 </p>
 <p align="center">
   <a href="https://www.bitbash.dev/">
     <img alt="BitBash × BitBot" src="https://img.shields.io/badge/Built%20by-BitBash-000000.svg?style=for-the-badge">
   </a>
-  
-  <img alt="Slack" src="https://img.shields.io/badge/Slack-App-4A154B.svg?logo=slack&logoColor=white&style=for-the-badge">
-  
   <a href="https://discord.gg/vBu9huKBvy">
     <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
   </a>
