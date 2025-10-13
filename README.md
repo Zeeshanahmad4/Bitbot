@@ -6,10 +6,7 @@ A BitBash product for distraction-free teams
 <p align="center">
   <a href="https://www.bitbash.dev/">
     <img alt="BitBash × BitBot" src="https://img.shields.io/badge/Built%20by-BitBash-000000.svg?style=for-the-badge">
-  </a>
-  <a href="https://discord.gg/vBu9huKBvy">
-    <img alt="Discord contact" src="https://img.shields.io/badge/Discord-Appilot-5865F2?logo=discord&logoColor=white&style=for-the-badge">
-  </a>
+ 
   
   <a href="https://t.me/devpilot1">
     <img alt="Telegram contact" src="https://img.shields.io/badge/Telegram-@devpilot1-2CA5E0?logo=telegram&logoColor=white&style=for-the-badge">
