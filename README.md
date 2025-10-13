@@ -197,7 +197,7 @@ Change `DEEP_WORK_START_HOUR`, `DEEP_WORK_END_HOUR`, and `TIMEZONE` in your env.
 
 # Maintainers & Contact
 **BitBash / BitBot Team**  
-- Discord server: **Appilot** — https://discord.gg/vBu9huKBvy  
+- Discord server: **Join** — https://discord.gg/vBu9huKBvy  
 - Telegram: **@devpilot1**
 
 ---
